@@ -1,7 +1,5 @@
 //A9. Write a Java program to find the index of an array element.
 
-import com.sun.prism.shader.Texture_ImagePattern_AlphaTest_Loader;
-
 import java.util.Scanner;
 
 public class A9 {
